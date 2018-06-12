@@ -1,0 +1,72 @@
+Drill: Question Design
+
+1 Age: Write-in or if allowing ranges use multiple choice/choose one
+
+2. Gender: Multiple choice/choose one
+
+3. Income: Write-in or if using ranges use multiple choice/choose one
+
+4. Opinions about dish soap: write-in or ranking
+
+5. Brand of dish soap used: Write-in or chose as many as apply
+
+6. Preference for dish soap (Cleany, Sudsy, DeGreaser, Pinesoft): Constant sum
+
+7. Positive vs. Negative feeling about dish soap: Rating Scale
+
+DRILL: Fix the flaw
+
+Question 1 - Should not load the presumption that the media does not care about Americans first.
+
+change to
+
+Describe your opinion of how much the mainstream media puts the interests of Americans?
+
+1. Poorly
+
+2. Well
+
+3. No opinion
+
+4. Other please specify
+
+Question 7 : 
+
+What Television source do you primarily get your news from?
+
+Add in option for No opinion and also Do not watch TV for news.
+
+Question 9 
+
+Rank how each topic is covered by the mainstream media. 1-10 rather than only checking off those that do the worst job.
+
+Question 19: 
+
+Describe how you think the media covers people of faith and supporters of religious liberties?
+
+Covers Fairly
+
+Covers in a biased way
+
+No opinion
+
+Other write in 
+
+If you answer b. describe how much Americans think about the media and their coverage of people of faith
+
+for 1-10 1-unaware to 10-Extremely aware
+
+Question 21- Has been loaded with a belief that the media spreads false stories.
+
+Do you believe that the media has spread false stories.
+
+a Yes
+
+b. No
+
+c. No opinion
+
+d. Other specify
+
+
+

@@ -1,0 +1,17 @@
+DRILL: When to use surveys
+
+1. Popularity of Uber drivers: Yes, surveys would be useful.  It would be good for finding out exceptionally good and bad drivers.
+The survey should come with a reward to encourage participation in average cases.
+
+2. Popularity of ice cream - No, A survey would not be a good idea.  Simply use sales data. Sales data will give you a direct measurement
+of differences in popularity of the ice cream flavors.
+
+3. Trojan condoms - Yes a survey would be a good idea due to the sensitive nature of the issues involved.
+
+4. There has been an unexpected increase in use at HappyCar.  Past behavioral data would not be useful.  We need to directly survey to
+find the cause.
+
+5. Yes surveys could help in assessing the success rate of new advertising.
+
+6. Patient/nurse ratios are not knowable by the general population. You should collect data from many hospitals with differing
+ratios and use known patient data to measure a patient recovery effect.  Surveys would not be helpful.
